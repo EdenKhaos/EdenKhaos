@@ -18,7 +18,7 @@ I'm newer to the world of coding but have tons of experience in design, sustaina
 - 🔭 I’m currently working on soon: Project 3
 - 🌱 I’m currently learning: React
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: My github user name is also my gamer user name!
+- ⚡ Fun fact: My github user name is also my gamer user name(Eden_Khaos)!
 
 ## 📫 How to reach me:
 - Github:[@EdenKhaos](https://github.com/Edehttps://www.instagram.com/edenkhaos1/nKhaos) 
