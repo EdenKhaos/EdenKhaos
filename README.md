@@ -35,6 +35,7 @@ I'm a "Type A" person.. I love perfection and refuse to let things slide or be u
 - MBTI: INFJ/INTJ
 - DISC: C/S
 - Enneagram: 1w5/4w6
+- Sokanu: Groundbreaker
 - Hogwarts House: Ravenclaw🦅
 
 
