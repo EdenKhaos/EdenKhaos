@@ -11,20 +11,20 @@ Here are some ideas to get you started:-->
 
 Hi I'm Heather!
 
-I'm newer to the world of coding but have tons of experience in design, sustainability, and building spaces that function awesomely.  I'm a huge nerd in gaming, anime, epic music, outdoor adventures, and world traveling. I love to change things up and adapt when new challenges arise. Overall, I love to solve problems that seem impossible and always have been a student of life where learning never stops.
+I'm newer to the world of coding but have tons of experience in design, sustainability and building spaces that function awesomely.  I'm a huge nerd in gaming, anime, epic music, outdoor adventures and world traveling. I love to change things up and adapt when new challenges arise. Overall, I love to solve problems that seem impossible and always have been a student of life where learning never stops.
 
 ## Fun Facts
 
 - 🔭 I’m currently working on soon: Project 3
 - 🌱 I’m currently learning: React
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: My github user name is also my gamer user name(Eden_Khaos)!
+- ⚡ Fun fact: My github user name is also my gamer user name!
 
 ## 📫 How to reach me:
 - Github:[@EdenKhaos](https://github.com/Edehttps://www.instagram.com/edenkhaos1/nKhaos) 
 - Instagram: [@edenkhaos1](https://github.com/EdenKhaos) 
 - Twitter: [@ravendantes19](https://twitter.com/ravendantes19) 
-- Current Portfolio: [link](https://edenkhaos.github.io/16-Portfolio2/)
+- Current Portfolio: [link](https://react-portfolio-heatherc.netlify.app/)
 
 ## My Work Methods
 
@@ -35,7 +35,6 @@ I'm a "Type A" person.. I love perfection and refuse to let things slide or be u
 - MBTI: INFJ/INTJ
 - DISC: C/S
 - Enneagram: 1w5/4w6
-- Sokanu: Groundbreaker
 - Hogwarts House: Ravenclaw🦅
 
 
