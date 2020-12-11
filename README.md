@@ -5,7 +5,6 @@
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about:
 Here are some ideas to get you started:-->
 ## Heather Cooper-@EdenKhaos
 
@@ -18,6 +17,7 @@ I'm newer to the world of coding but have tons of experience in design, sustaina
 - 🔭 I’m currently working on soon: Continue on my last project "Let's Get Married" app.
 - 🌱 I’m currently learning: Continue learning React and PHP
 - 😄 Pronouns: she/her/hers
+- 💬 Ask me about: My alias name...and why I use it?
 - ⚡ Fun fact: My github user name is also my gamer user name!
 
 ## 📫 How to reach me:
