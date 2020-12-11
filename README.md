@@ -15,8 +15,8 @@ I'm newer to the world of coding but have tons of experience in design, sustaina
 
 ## Fun Facts
 
-- 🔭 I’m currently working on soon: Project 3
-- 🌱 I’m currently learning: React
+- 🔭 I’m currently working on soon: Continue on my last project "Let's Get Married" app.
+- 🌱 I’m currently learning: Continue learning React and PHP
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: My github user name is also my gamer user name!
 
@@ -35,7 +35,9 @@ I'm a "Type A" person.. I love perfection and refuse to let things slide or be u
 - MBTI: INFJ/INTJ
 - DISC: C/S
 - Enneagram: 1w5/4w6
+- Faction: Dauntless
 - Hogwarts House: Ravenclaw🦅
+
 
 
 
