@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:-->
-## 🌸 Heather Cooper-@EdenKhaos
+## 🦄 Heather Cooper-@EdenKhaos
 
 Hi I'm Heather!
 
