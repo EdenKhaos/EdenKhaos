@@ -32,13 +32,13 @@ I'm a "Type A" person.. I love perfection and refuse to let things slide or be u
 
 ## 👽 Personality Type:
 
-- MBTI: INFJ/INTJ🎭🧐
-- DISC: C/S🥧
-- Enneagram: 1w5/4w61️⃣/4️⃣
-- Big 5: O=92%, C=90%, E=2%, A=52%, N=69%🎯
-- Core Personality Pattern: Empathic Idealist 72%; Analytical Thinker 70%🌈♟️
-- Faction: Dauntless/Divergent🔥
-- Hogwarts House: Ravenclaw🦅
+- MBTI: INFJ/INTJ
+- DISC: C/S
+- Enneagram: 1, 4w6, 4w5
+- Big 5: O=92%, C=90%, E=2%, A=52%, N=69%
+- Core Personality Pattern: Empathic Idealist 72%; Analytical Thinker 70%
+- Faction: Dauntless/Divergent
+- Hogwarts House: Ravenclaw
 
 
 
