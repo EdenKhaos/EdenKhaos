@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 
 Hi I'm Heather!
 
-I'm newer to the world of coding but have tons of experience in design, sustainability and building spaces that function awesomely.  I'm a huge nerd in gaming, anime, epic music, outdoor adventures and world traveling. I love to change things up and adapt when new challenges arise. Overall, I love to solve problems that seem impossible and always have been a student of life where "Learning. Never. Stops.".
+I'm newer to the world of coding but have tons of experience in design, sustainability and building spaces that function awesomely.  I'm a huge nerd in gaming, anime, epic music, outdoor adventures and world traveling. I love to change things up and adapt when new challenges arise. Overall, I love to solve problems that seem impossible and always have been a student of life where **"Learning. Never. Stops."**.
 
 ## ❓ Fun Facts:
 
