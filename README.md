@@ -14,7 +14,7 @@ I'm newer to the world of coding but have tons of experience in design, sustaina
 
 ## ❓ Fun Facts:
 
-- 🔭 I’m currently working on soon: Make a new burger making app using React, Hooks, and Redux.
+- 🔭 I’m currently working on soon: Make a new burger making app using React, Hooks, and Redux. Started Figma to learn some UI skills.
 - 🌱 I’m currently learning: Continue learning React, PHP, native Javascript.
 - 😄 Pronouns: she/her/hers
 - 💬 Ask me about: My alias name...and why I use it?
